@@ -1,3 +1,4 @@
-Class C
+class Contact
 {
+	Contact();
 };
